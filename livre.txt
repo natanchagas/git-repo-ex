@@ -1,1 +1,3 @@
 Início do exercício livre
+
+Talvez isso cause conflitos...

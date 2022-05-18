@@ -1,1 +1,3 @@
 Arquivo para conflito.
+
+Vamos causar conflito então!
