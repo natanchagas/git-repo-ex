@@ -1,1 +1,3 @@
 Esse arquivo certamente é diferente do outro arquivo!
+
+Esse arquivo foi atualizado.
